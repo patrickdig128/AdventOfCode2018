@@ -1,0 +1,2542 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="302" y="57" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="False" />
+          <Name>Input2</Name>
+          <Abbrev />
+          <ShowFieldMap value="False" />
+          <Optional value="False" />
+          <TextInput>
+            <Configuration>
+              <NumRows value="104" />
+              <Fields>
+                <Field name="First" />
+                <Field name="Second" />
+                <Field name="Lock" />
+                <Field name="Time" />
+                <Field name="Start" />
+                <Field name="End" />
+                <Field name="Length" />
+                <Field name="Assigned" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>G</c>
+                  <c>X</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>84</c>
+                  <c />
+                </r>
+                <r>
+                  <c>X</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>I</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>69</c>
+                  <c />
+                </r>
+                <r>
+                  <c>D</c>
+                  <c>H</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>68</c>
+                  <c />
+                </r>
+                <r>
+                  <c>O</c>
+                  <c>T</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>80</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>C</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>63</c>
+                  <c />
+                </r>
+                <r>
+                  <c>S</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>U</c>
+                  <c>M</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>73</c>
+                  <c />
+                </r>
+                <r>
+                  <c>M</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>R</c>
+                  <c>N</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>74</c>
+                  <c />
+                </r>
+                <r>
+                  <c>C</c>
+                  <c>Q</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>77</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>P</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>76</c>
+                  <c />
+                </r>
+                <r>
+                  <c>I</c>
+                  <c>W</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>83</c>
+                  <c />
+                </r>
+                <r>
+                  <c>W</c>
+                  <c>N</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>74</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>J</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>70</c>
+                  <c />
+                </r>
+                <r>
+                  <c>N</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Y</c>
+                  <c>J</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>70</c>
+                  <c />
+                </r>
+                <r>
+                  <c>J</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>L</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>E</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Q</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>F</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>V</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Z</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>B</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>G</c>
+                  <c>U</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>81</c>
+                  <c />
+                </r>
+                <r>
+                  <c>E</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>C</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>R</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Q</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>R</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>L</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>M</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>W</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>I</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>M</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>73</c>
+                  <c />
+                </r>
+                <r>
+                  <c>V</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Y</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Q</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>W</c>
+                  <c>Y</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>85</c>
+                  <c />
+                </r>
+                <r>
+                  <c>U</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>D</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>N</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>T</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>80</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>C</c>
+                  <c>T</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>80</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>I</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>69</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Z</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>L</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Y</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>I</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>N</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>74</c>
+                  <c />
+                </r>
+                <r>
+                  <c>G</c>
+                  <c>D</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>64</c>
+                  <c />
+                </r>
+                <r>
+                  <c>I</c>
+                  <c>J</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>70</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>L</c>
+                  <c>Q</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>77</c>
+                  <c />
+                </r>
+                <r>
+                  <c>D</c>
+                  <c>M</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>73</c>
+                  <c />
+                </r>
+                <r>
+                  <c>O</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>R</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>D</c>
+                  <c>W</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>83</c>
+                  <c />
+                </r>
+                <r>
+                  <c>M</c>
+                  <c>J</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>70</c>
+                  <c />
+                </r>
+                <r>
+                  <c>O</c>
+                  <c>R</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>78</c>
+                  <c />
+                </r>
+                <r>
+                  <c>N</c>
+                  <c>Z</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>86</c>
+                  <c />
+                </r>
+                <r>
+                  <c>Y</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>W</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>U</c>
+                  <c>Y</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>85</c>
+                  <c />
+                </r>
+                <r>
+                  <c>S</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>M</c>
+                  <c>P</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>76</c>
+                  <c />
+                </r>
+                <r>
+                  <c>X</c>
+                  <c>A</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>61</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>L</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>72</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>R</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>78</c>
+                  <c />
+                </r>
+                <r>
+                  <c>V</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>E</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>V</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>82</c>
+                  <c />
+                </r>
+                <r>
+                  <c>S</c>
+                  <c>R</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>78</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>Y</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>85</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>C</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>63</c>
+                  <c />
+                </r>
+                <r>
+                  <c>J</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>C</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c>D</c>
+                  <c>I</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>69</c>
+                  <c />
+                </r>
+                <r>
+                  <c>X</c>
+                  <c>F</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>66</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>Q</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>77</c>
+                  <c />
+                </r>
+                <r>
+                  <c>J</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>C</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>P</c>
+                  <c>Q</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>77</c>
+                  <c />
+                </r>
+                <r>
+                  <c>H</c>
+                  <c>R</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>78</c>
+                  <c />
+                </r>
+                <r>
+                  <c>F</c>
+                  <c>B</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>62</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>J</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>70</c>
+                  <c />
+                </r>
+                <r>
+                  <c>A</c>
+                  <c>W</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>83</c>
+                  <c />
+                </r>
+                <r>
+                  <c>N</c>
+                  <c>K</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>71</c>
+                  <c />
+                </r>
+                <r>
+                  <c>T</c>
+                  <c>E</c>
+                  <c />
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>65</c>
+                  <c />
+                </r>
+                <r>
+                  <c />
+                  <c>G</c>
+                  <c>Unlocked</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>67</c>
+                  <c />
+                </r>
+                <r>
+                  <c />
+                  <c>O</c>
+                  <c>Unlocked</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>75</c>
+                  <c />
+                </r>
+                <r>
+                  <c />
+                  <c>S</c>
+                  <c>Unlocked</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                  <c>79</c>
+                  <c />
+                </r>
+              </Data>
+            </Configuration>
+          </TextInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Byte" />
+            <Field name="Start" source="TextInput:" type="Bool" />
+            <Field name="End" source="TextInput:" type="Bool" />
+            <Field name="Length" source="TextInput:" type="Byte" />
+            <Field name="Assigned" source="TextInput:" type="Bool" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="202" y="237" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Lock]="Unlocked" &amp;&amp; Isempty([Assigned])</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-07 08:41:11</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-12-07 08:41:11</StartDate>
+              <EndDate>2018-12-07 08:41:11</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Lock]="Unlocked" &amp;&amp; Isempty([Assigned])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="182" y="557" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="Second" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Second - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="397.5" y="1502.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Second" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Second" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_First" selected="False" input="Left_" />
+                <SelectField field="Left_Second" selected="False" input="Left_" />
+                <SelectField field="Left_Lock" selected="False" input="Left_" />
+                <SelectField field="Right_Time" selected="True" rename="Right_Time" input="Right_" />
+                <SelectField field="Right_Start" selected="True" rename="Right_Start" input="Right_" />
+                <SelectField field="Right_End" selected="True" rename="Right_End" input="Right_" />
+                <SelectField field="Right_Length" selected="True" rename="Right_Length" input="Right_" />
+                <SelectField field="Right_Assigned" selected="True" rename="Right_Assigned" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Right_Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Right_Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="Right_End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Right_Length" source="TextInput:" type="Int32" />
+            <Field name="Right_Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Right_Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="367.5" y="1602.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Second" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="First" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Second" selected="False" input="Left_" />
+                <SelectField field="Left_First" selected="False" input="Left_" />
+                <SelectField field="Left_Lock" selected="False" input="Left_" />
+                <SelectField field="Left_Time" selected="False" input="Left_" />
+                <SelectField field="Left_Start" selected="False" input="Left_" />
+                <SelectField field="Left_End" selected="False" input="Left_" />
+                <SelectField field="Left_Length" selected="False" input="Left_" />
+                <SelectField field="Left_Assigned" selected="False" input="Left_" />
+                <SelectField field="Left_RecordID" selected="False" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Second" size="1" source="Summarize: GroupBy - Second" type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="First" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="337.5" y="1702.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Unlocked&quot;" field="Lock" size="8" type="String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Lock = "Unlocked"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="Formula: &quot;Unlocked&quot;" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="387.5" y="1802.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="(Multiple Sources)" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="382.5" y="2002.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Output13</Name>
+          <Abbrev />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="202" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Second" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Second" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_First" selected="True" input="Right_" />
+                <SelectField field="Right_Second" selected="True" input="Right_" />
+                <SelectField field="Right_Lock" selected="True" input="Right_" />
+                <SelectField field="Right_Time" selected="True" input="Right_" />
+                <SelectField field="Right_Start" selected="True" input="Right_" />
+                <SelectField field="Right_End" selected="True" input="Right_" />
+                <SelectField field="Right_Length" selected="True" input="Right_" />
+                <SelectField field="Right_Assigned" selected="True" input="Right_" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="247" y="167" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!isempty([Assigned])</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-07 09:37:47</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-12-07 09:37:47</StartDate>
+              <EndDate>2018-12-07 09:37:47</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!isempty([Assigned])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="327" y="382" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>Subset</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="True" />
+          <OutputOrder>
+            <Connection>#1</Connection>
+            <Connection>#2</Connection>
+          </OutputOrder>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="337" y="822" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IIF(IsEmpty([Start]),[Time],[Start])" field="Start" size="4" type="Int32" />
+            <FormulaField expression="IIF(IsEmpty([End]),[Time]+[Length]-1,[End])" field="End" size="4" type="Int32" />
+            <FormulaField expression="1" field="Assigned" size="4" type="Int32" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Start = IIF(IsEmpty([Start]),[Time],[Start])
+End = IIF(IsEmpty([End]),[Time]+[Le...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="Formula: IIF(IsEmpty([Start]),[Time],[Start])" type="Int32" />
+            <Field name="End" source="Formula: IIF(IsEmpty([End]),[Time]+[Length]-1,[End])" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: 1" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="RecordID" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="272.5" y="922.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>Subset</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="(Multiple Sources)" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="167" y="747" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[RecordID]&lt;6</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-07 10:19:16</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-12-07 10:19:16</StartDate>
+              <EndDate>2018-12-07 10:19:16</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[RecordID]&lt;6</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="167" y="657" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Second" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="327" y="622" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="RecordID" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="342" y="722" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[RecordID]&lt;6</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-07 10:19:16</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-12-07 10:19:16</StartDate>
+              <EndDate>2018-12-07 10:19:16</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[RecordID]&lt;6</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="RecordID" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="RecordID" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="267.5" y="1302.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IIF([Time]&gt;=[End],null(),[Assigned])" field="Assigned" size="4" type="Int32" />
+            <FormulaField expression="Max([Time]+1,[Min_End])" field="Time" size="4" type="Int32" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Assigned = IIF([Time]>=[End],null(),[Assigned])
+Time = Max([Time]+1,[Min_End])
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="267.5" y="1402.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>IsEmpty([Assigned]) &amp;&amp; !IsEmpty([End])</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-07 10:24:15</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-12-07 10:24:15</StartDate>
+              <EndDate>2018-12-07 10:24:15</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IsEmpty([Assigned]) &amp;&amp; !IsEmpty([End])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="232" y="542" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="267" y="122" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Time" selected="True" type="Int32" size="4" />
+            <SelectField field="Start" selected="True" type="Int32" size="4" />
+            <SelectField field="End" selected="True" type="Int32" size="4" />
+            <SelectField field="Length" selected="True" type="Int32" size="4" />
+            <SelectField field="Assigned" selected="True" type="Int32" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="367" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Time" action="GroupBy" rename="Time" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Time" source="Summarize: GroupBy - Time" type="Byte" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Time" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="397" y="262" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Output30</Name>
+          <Abbrev />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="207" y="442" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="First" />
+            <Field field="Second" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: First, Second</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Unique">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="First" order="Asc" />
+            <Field field="Second" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Duplicates">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="TextInput:" type="Int32" />
+            <Field name="End" source="TextInput:" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="First" order="Asc" />
+            <Field field="Second" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="312.5" y="1502.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Second" action="GroupBy" rename="Second" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Second" size="1" source="Summarize: GroupBy - Second" type="String" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Second" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="442.5" y="1002.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="End" action="Min" rename="Min_End" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Min_End" source="(Multiple Sources)" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="272.5" y="1202.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="TextInput:" type="String" />
+            <Field name="Time" source="TextInput:" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="(Multiple Sources)" type="Int32" />
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="397.5" y="1102.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IIF(IsEmpty([Min_End]),1,[Min_End])" field="Min_End" size="4" type="Int32" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Min_End = IIF(IsEmpty([Min_End]),1,[Min_End])
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Min_End" source="Formula: IIF(IsEmpty([Min_End]),1,[Min_End])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="387.5" y="1902.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Min_End" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="First" size="1" source="TextInput:" type="String" />
+            <Field name="Second" size="1" source="TextInput:" type="String" />
+            <Field name="Lock" size="8" source="(Multiple Sources)" type="String" />
+            <Field name="Time" source="Formula: Max([Time]+1,[Min_End])" type="Int32" />
+            <Field name="Start" source="(Multiple Sources)" type="Int32" />
+            <Field name="End" source="(Multiple Sources)" type="Int32" />
+            <Field name="Length" source="TextInput:" type="Int32" />
+            <Field name="Assigned" source="Formula: IIF([Time]&gt;=[End],null(),[Assigned])" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="True" />
+      <Destination ToolID="14" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="False" />
+      <Destination ToolID="14" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Right" />
+      <Destination ToolID="10" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="10" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Join" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="10" Connection="Right" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Left" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="14" Connection="Right" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="33" Connection="Unique" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Join" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="15" Connection="True" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="False" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="20" Connection="False" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="23" Connection="False" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="37" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="37" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="True" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="8" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="True" />
+      <Destination ToolID="8" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="True" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Vertical</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (30)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Day7 second iterative (forward) (Part 2)</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (1)</Name>
+          <ToolId value="1" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description>Macro Input (2)</Description>
+              <Name>Macro Input (2)</Name>
+              <ToolId value="2" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (13)</Description>
+              <Name>Macro Output (13)</Name>
+              <ToolId value="13" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (30)</Description>
+              <Name>Macro Output (30)</Name>
+              <ToolId value="30" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <IterativeMacro>
+        <Input>Input2</Input>
+        <Output>Output13</Output>
+        <IterationLimit value="2000" />
+        <LimitBehavior>Error</LimitBehavior>
+        <OutputMode>AllSame</OutputMode>
+      </IterativeMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="2" Selected="True" />
+        <Tool ToolId="13" Selected="True" />
+        <Tool ToolId="30" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
